@@ -43,6 +43,8 @@ __________________________________________________________________
 > Confusion matrix , Profits , Accuracy , AUC , ROC Curve , 100 + grosses erreurs
 *  [fonctions](https://github.com/vlagache/give_me_credit/blob/master/fonctions.ipynb)
 > Modifications des features du dataset initial 
+* [Xboost](https://github.com/vlagache/give_me_credit/blob/master/3-Xgboost.ipynb)
+> Modele xgboost et prédictions 
 * [new_input_prediction](https://github.com/vlagache/give_me_credit/blob/master/4-new_input_prediction.ipynb)
 > Prédiction sur de nouvelles données clients avec le modele entrainé précédement (xgboost)
 
