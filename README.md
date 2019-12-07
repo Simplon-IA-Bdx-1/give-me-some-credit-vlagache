@@ -1,6 +1,6 @@
 # GiveMeCredit Kaggle - Jupyter notebook 
 
-Participation au challenge Kaggle [Give Me Some Credit ](https://www.kaggle.com/)
+Participation au challenge Kaggle [Give Me Some Credit ](https://www.kaggle.com/c/GiveMeSomeCredit)
 
 
 ### Démarrer le projet 
@@ -30,7 +30,7 @@ ________________________________________________________
     ```
     l'id de votre projet se trouve à l'adresse suivante : [projects BigML](https://bigml.com/dashboard/projects/)
 
-    ![idprojectbigml](https://github.com/vlagache/GiveMeCredit/blob/master/img/idprojectbigml.JPG) 
+    ![idprojectbigml](https://github.com/vlagache/give_me_credit/blob/master/img/idprojectbigml.JPG) 
 
 
 __________________________________________________________________
@@ -41,10 +41,11 @@ __________________________________________________________________
 > Création d'un dataset ( avec nouvelles features ) sur BIGML , création d'un modèle ensemble , prediction &   envoi à kaggle
 *  [Ensemble Model Review - bigml](https://github.com/vlagache/GiveMeCredit/blob/master/GiveMeCredit-Ensemble-ModelReview.ipynb)
 > Confusion matrix , Profits , Accuracy , AUC , ROC Curve , 100 + grosses erreurs
-*  [fonctions](url)
+*  [fonctions](https://github.com/vlagache/give_me_credit/blob/master/fonctions.ipynb)
 > Modifications des features du dataset initial 
+* [new_input_prediction](https://github.com/vlagache/give_me_credit/blob/master/4-new_input_prediction.ipynb)
+> Prédiction sur de nouvelles données clients avec le modele entrainé précédement (xgboost)
 
 ________________________
-### Score Kaggle 
-* Ensemble BigML : 0.00000 
-* XBoost : 
+### Score Kaggle ( vlagache )
+* XGBoost : Public Score 0.86004 ( ~ 204 sur 924 participants )
