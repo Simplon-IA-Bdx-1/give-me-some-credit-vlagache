@@ -1,9 +1,4 @@
 docker/auth.env
 /files_csv
-/files_csv_perf
-/files_csv_perf_train
-/test_split
-/EvaluationModel
-/auc 
 Competition_Kaggle.ipynb
 
