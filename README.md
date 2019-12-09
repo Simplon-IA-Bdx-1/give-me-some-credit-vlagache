@@ -37,9 +37,9 @@ __________________________________________________________________
 ### Table des matières
 
 
-*  [Ensemble avec BigML](https://github.com/vlagache/GiveMeCredit/blob/master/GiveMeCredit-Ensemble.ipynb)
+*  [Ensemble avec BigML](https://github.com/vlagache/give_me_credit/blob/master/1-Ensemble_bigml.ipynb)
 > Création d'un dataset ( avec nouvelles features ) sur BIGML , création d'un modèle ensemble , prediction &   envoi à kaggle
-*  [Ensemble Model Review - bigml](https://github.com/vlagache/GiveMeCredit/blob/master/GiveMeCredit-Ensemble-ModelReview.ipynb)
+*  [Ensemble Model Review - bigml](https://github.com/vlagache/give_me_credit/blob/master/2-Ensemble_ModelReview_bigml.ipynb)
 > Confusion matrix , Profits , Accuracy , AUC , ROC Curve , 100 + grosses erreurs
 *  [fonctions](https://github.com/vlagache/give_me_credit/blob/master/fonctions.ipynb)
 > Modifications des features du dataset initial 
