@@ -2,8 +2,7 @@ bigml
 kaggle
 matplotlib
 rise
-jupyter_contrib_nbextensions
 seaborn
 ipynb
-
+jupyter_contrib_nbextensions
 

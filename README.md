@@ -51,3 +51,4 @@ __________________________________________________________________
 ________________________
 ### Score Kaggle ( vlagache )
 * XGBoost : Public Score 0.86004 ( ~ 204 sur 924 participants )
+* BigML : Public Score 0.85938
